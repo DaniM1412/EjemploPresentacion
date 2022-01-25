@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Clases\ConexionesBD.cs" />
     <Compile Include="Clases\Datos.cs" />
+    <Compile Include="Clases\prueba.cs" />
     <Compile Include="Forms\Confirmacion.aspx.cs">
       <DependentUpon>Confirmacion.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
